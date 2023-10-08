@@ -1,7 +1,7 @@
 <template>
     <navbar></navbar>
     <div>
-        <h2 class="text-red-500">WHAT WE DO</h2>
+        <h2 class="text-red-500">INSIGHTS</h2>
     </div>
 </template>
 
